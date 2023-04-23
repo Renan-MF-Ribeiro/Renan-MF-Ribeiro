@@ -5,15 +5,15 @@ Possuo experiencia em projetos de portifolio e pequenos projetos desenvolvendo c
 
 Também conto com 8 Anos de experiencia em suporte técnico ao usuário e ao cliente, para rapida solução de problemas, adequação de requisitos para os projetos e analise de interface do usuario(UI/UX).
 
-:computer: Sou desenvolvedor front-end!
+:computer: Sou desenvolvedor WEB FullStack!
 
 :house_with_garden: Moro em São Paulo/SP - Brasil
 
-:books: Atualmente, estou aprendendo de tudo um pouco.
+:books: Atualmente, estou estutando React e React Native
 
-:notebook: Skills: ANGULAR / TS / HTML / CSS
+:notebook: Skills: ANGULAR / TypeScript / HTML / CSS / NODEJS / JavaScript / Python
 
-:outbox_tray: Objetivos 2021: Encontrar um novo emprego
+:outbox_tray: Objetivos 2023: Agregar conhecimento em novos React
 
 
 
