@@ -1,20 +1,9 @@
 ### Olá Pessoal 👋, Sou o Renan Ribeiro
 #### Desenvolvedor WEB FrontEnd
 
-Possuo experiencia em projetos de portifolio e pequenos projetos desenvolvendo com front-end Angular 11~15, NodeJS e back-end WebAPI ASP.NET Core, utilizando bootstrap 5.0 e angular Material; 
+Sou Renan Ribeiro, um desenvolvedor FrontEnd apaixonado por tecnologia e educação. Formei-me em Análise e Desenvolvimento de Sistemas pela Brazcubas Educação em 2023, onde aprendi a criar soluções web com as principais ferramentas e frameworks do mercado, como Angular, Node.js, TypeScript, Bootstrap e Angular Material.
 
-Também conto com 8 Anos de experiencia em suporte técnico ao usuário e ao cliente, para rapida solução de problemas, adequação de requisitos para os projetos e analise de interface do usuario(UI/UX).
-
-:computer: Sou desenvolvedor WEB FrontEnd!
-
-:house_with_garden: Moro em São Paulo/SP - Brasil
-
-:books: Atualmente, estou aumentando meus conhecimentos em Angular
-
-:notebook: Skills: ANGULAR / TypeScript / HTML / CSS / NODEJS / JavaScript / Python
-
-:outbox_tray: Objetivos 2023: Agregar conhecimento em novos Angular
-
+Atualmente, trabalho na Happmobi, uma empresa de educação digital que oferece plataformas interativas e gamificadas para o ensino e aprendizagem. Lá, sou responsável pela refatoração de código, resolução de bugs e criação de novas funcionalidades, seguindo o design Figma e o método ágil de desenvolvimento. Também contribuo para o desenvolvimento de microserviços que integram as API's RESTfull com o WebAPI ASP.NET Core, Firebase e Atlas MongoDB. Um dos meus maiores orgulhos foi participar do upgrade da versão core da plataforma, que trouxe mais performance, segurança e usabilidade para os usuários. O meu objetivo é continuar aprimorando as minhas habilidades e conhecimentos, e colaborar com projetos que façam a diferença na educação.
 
 
 
